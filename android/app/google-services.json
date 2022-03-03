@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "696372222215",
+    "project_id": "alsamah-co",
+    "storage_bucket": "alsamah-co.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696372222215:android:771bdebe87fdd9723dcda2",
+        "android_client_info": {
+          "package_name": "com.ertiqasoft.alsamah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696372222215-ehrf5a37p9bsob0kdkigimdbkiscmgke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_6JLUfh7ezZzzsTTkULPe-1NU4ww2EGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696372222215-ehrf5a37p9bsob0kdkigimdbkiscmgke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696372222215:android:74c97ba8e48f36863dcda2",
+        "android_client_info": {
+          "package_name": "com.ertiqasoft.alsamah_local"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696372222215-ehrf5a37p9bsob0kdkigimdbkiscmgke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_6JLUfh7ezZzzsTTkULPe-1NU4ww2EGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696372222215-ehrf5a37p9bsob0kdkigimdbkiscmgke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
